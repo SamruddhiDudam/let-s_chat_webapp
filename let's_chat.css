@@ -1,0 +1,24 @@
+body {
+    background-image: url(WhatsApp\ Image\ 2021-06-13\ at\ 11.57.23\ AM.jpeg);
+}
+
+#take_name_imp {
+    position: absolute;
+    top: 67%;
+    left: 52.6%;
+    width: 18%;
+    height: 7%;
+    border: 0px;
+    border-radius: 10px;
+}
+
+button{
+    position: absolute;
+    top: 78%;
+    left: 53%;
+    width: 18%;
+    height: 5%;
+    font-style: italic;
+    background-color: blue;
+    border: 0px;
+}
